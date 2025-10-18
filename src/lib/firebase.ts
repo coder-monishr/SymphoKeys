@@ -7,7 +7,7 @@ const firebaseConfig = {
   apiKey: 'your api key here!',
   authDomain: 'Fill your domain',
   measurementId: '',
-  messagingSenderId: '985223662347',
+  messagingSenderId: 'SenderID',
 };
 
 const app = initializeApp(firebaseConfig);
